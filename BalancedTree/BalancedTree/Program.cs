@@ -5,48 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// C# program to convert a left unbalanced BST to a balanced BST  
-  
-/* A binary tree node has data, pointer to left child  
-   and a pointer to right child */
-//    {
-//        public string data;
-//        public Node left, right;
 
-//        public Node(string data)
-//        {
-//            this.data = data;
-//            left = right = null;
-//        }
-
-//    public Node(string fjala)
-//    {
-//        this.data = fjala;
-
-//    }
-//}
-
-//    public class BinaryTree
-//    {
-//        public Node _root;
-
-
-/* This function traverse the skewed binary tree and  
-   stores its nodes pointers in vector nodes[] */
-//public virtual void storeBSTNodes(Node root, List<Node> nodes)
-//{
-//    // Base case  
-//    if (root == null)
-//    {
-//        return;
-//    }
-
-//    // Store nodes in Inorder (which is sorted  
-//    // order for BST)  
-//    storeBSTNodes(root.left, nodes);
-//    nodes.Add(root);
-//    storeBSTNodes(root.right, nodes);
-//}
 public class Node
 {
     public string Vlera { get; set; }

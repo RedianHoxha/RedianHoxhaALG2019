@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PemeBinare
+namespace BinaryTree
 {
     public class Node
     {
@@ -112,7 +112,7 @@ namespace PemeBinare
 
 
     }
-    class Program
+    class BinaryTree
     {
         public static void Main(string[] args)
         {
