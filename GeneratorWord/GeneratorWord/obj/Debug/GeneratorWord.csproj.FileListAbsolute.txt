@@ -1,0 +1,7 @@
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\bin\Debug\GeneratorWord.exe.config
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\bin\Debug\GeneratorWord.exe
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\bin\Debug\GeneratorWord.pdb
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\obj\Debug\GeneratorWord.csprojAssemblyReference.cache
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\obj\Debug\GeneratorWord.csproj.CoreCompileInputs.cache
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\obj\Debug\GeneratorWord.exe
+C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\GeneratorWord\obj\Debug\GeneratorWord.pdb

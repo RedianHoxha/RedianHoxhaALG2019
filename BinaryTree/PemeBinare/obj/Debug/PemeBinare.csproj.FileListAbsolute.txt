@@ -1,0 +1,14 @@
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\bin\Debug\PemeBinare.exe.config
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\bin\Debug\PemeBinare.exe
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\bin\Debug\PemeBinare.pdb
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\obj\Debug\PemeBinare.csprojAssemblyReference.cache
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\obj\Debug\PemeBinare.csproj.CoreCompileInputs.cache
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\obj\Debug\PemeBinare.exe
+C:\Users\Markel\source\repos\PemeBinare\PemeBinare\obj\Debug\PemeBinare.pdb
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\bin\Debug\PemeBinare.exe.config
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\bin\Debug\PemeBinare.exe
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\bin\Debug\PemeBinare.pdb
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\PemeBinare.csprojAssemblyReference.cache
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\PemeBinare.csproj.CoreCompileInputs.cache
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\PemeBinare.exe
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\PemeBinare.pdb

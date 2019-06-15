@@ -1,0 +1,14 @@
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\bin\Debug\PemaBalancuar1.exe.config
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\bin\Debug\PemaBalancuar1.exe
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\bin\Debug\PemaBalancuar1.pdb
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.csprojAssemblyReference.cache
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.csproj.CoreCompileInputs.cache
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.exe
+C:\Users\Markel\source\repos\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.pdb
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\bin\Debug\PemaBalancuar1.exe.config
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\bin\Debug\PemaBalancuar1.exe
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\bin\Debug\PemaBalancuar1.pdb
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.csprojAssemblyReference.cache
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.csproj.CoreCompileInputs.cache
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.exe
+C:\Users\Markel\Desktop\detyrakusitc++\PemaBalancuar1\PemaBalancuar1\obj\Debug\PemaBalancuar1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PemeBinare", "PemeBinare\PemeBinare.csproj", "{9341F8F4-0FA5-4C62-95FA-480C4EEE8682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9341F8F4-0FA5-4C62-95FA-480C4EEE8682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9341F8F4-0FA5-4C62-95FA-480C4EEE8682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9341F8F4-0FA5-4C62-95FA-480C4EEE8682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9341F8F4-0FA5-4C62-95FA-480C4EEE8682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38003222-8E63-46E2-9072-B8150EAEB0E0}
+	EndGlobalSection
+EndGlobal
