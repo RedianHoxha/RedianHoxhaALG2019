@@ -1,0 +1,33 @@
+HashTable:
+100 fjale->Time elapsed: 00:00:00.1252384
+1000 fjale->Time elapsed: 00:00:00.8940266
+10000 fjale->Time elapsed: 00:00:05.6972677
+100000 fjale->Time elapsed: 00:01:19.4043300
+
+
+
+Lista 1 Drejtimore:
+100 fjale->Time elapsed: 00:00:00.0468832
+1000 fjale->Time elapsed: 00:00:00.8469241
+10000 fjale->Time elapsed: 00:00:05.2088886
+100000 fjale->Time elapsed: 00:01:08.5233108
+
+
+
+Pema Binare:
+100 fjale->Time elapsed: 00:00:00.0070700
+1000 fjale->Time elapsed: 00:00:00.1773290
+10000 fjale->Time elapsed: 00:00:01.5302870
+100000 fjale->Time elapsed: 00:00:14.0453610
+1mln fjale->Time elapsed: 00:02:04.3324927
+
+
+
+Pema Balancuar:
+100 fjale->Time elapsed: 00:00:00.0075602
+1000 fjale->Time elapsed: 00:00:00.1202552
+10000 fjale->Time elapsed: 00:00:01.3496602
+100000 fjale->Time elapsed: 00:00:14.0869178
+1mln fjale->Time elapsed: 00:02:10.6853572
+
+ 
